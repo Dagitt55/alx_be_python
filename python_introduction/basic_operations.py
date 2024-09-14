@@ -1,6 +1,6 @@
 # Assign values to the variables
-number1 = int(10)
-number2 = int(5)
+number1 = 10
+number2 = 5
 
 # Perform the operations
 addition = number1 + number2
